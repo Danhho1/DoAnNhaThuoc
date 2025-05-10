@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DoAnQuanLyNhaThuoc" Class="DataQuanLyNhaThuocDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-TGOLBF9T;Initial Catalog=DoAnQuanLyNhaThuoc;Integrated Security=True;Encrypt=True;Trust Server Certificate=True" SettingsObjectName="DAL_QuanLyNhanVien.Properties.Settings" SettingsPropertyName="DoAnQuanLyNhaThuocConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.DonThuoc" Member="DonThuocs">
+    <Type Name="DonThuoc">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_don" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_loai" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_thuoc" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_khach_hang" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_nhan_vien" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="so_luong" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="gia_tien" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="ngay_tao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="trang_thai" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Association Name="KhachHang_DonThuoc" Member="KhachHang" ThisKey="id_khach_hang" OtherKey="id_khach_hang" Type="KhachHang" IsForeignKey="true" />
+      <Association Name="LoaiThuoc_DonThuoc" Member="LoaiThuoc" ThisKey="id_loai" OtherKey="id_loai" Type="LoaiThuoc" IsForeignKey="true" />
+      <Association Name="Thuoc_DonThuoc" Member="Thuoc" ThisKey="id_thuoc" OtherKey="id_thuoc" Type="Thuoc" IsForeignKey="true" />
+      <Association Name="User_DonThuoc" Member="User" ThisKey="id_nhan_vien" OtherKey="id" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KhachHang" Member="KhachHangs">
+    <Type Name="KhachHang">
+      <Column Name="id_khach_hang" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ho_ten" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="so_dien_thoai" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="ngay_sinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ngay_tao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="KhachHang_DonThuoc" Member="DonThuocs" ThisKey="id_khach_hang" OtherKey="id_khach_hang" Type="DonThuoc" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LoaiThuoc" Member="LoaiThuocs">
+    <Type Name="LoaiThuoc">
+      <Column Name="id_loai" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ten_loai" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="trang_thai" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="LoaiThuoc_DonThuoc" Member="DonThuocs" ThisKey="id_loai" OtherKey="id_loai" Type="DonThuoc" />
+      <Association Name="LoaiThuoc_Thuoc" Member="Thuocs" ThisKey="id_loai" OtherKey="id_loai" Type="Thuoc" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LoaiUsers" Member="LoaiUsers">
+    <Type Name="LoaiUser">
+      <Column Name="ma_loai" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ten_loai" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Association Name="LoaiUser_User" Member="Users" ThisKey="ma_loai" OtherKey="ma_loai" Type="User" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Thuoc" Member="Thuocs">
+    <Type Name="Thuoc">
+      <Column Name="id_thuoc" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_loai" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ten_thuoc" Type="System.String" DbType="NVarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="thanh_phan" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="mo_ta" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="gia_tien" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="noi_san_xuat" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="hinh_anh" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ngay_san_xuat" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ngay_het_han" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="trang_thai" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Thuoc_DonThuoc" Member="DonThuocs" ThisKey="id_thuoc" OtherKey="id_thuoc" Type="DonThuoc" />
+      <Association Name="LoaiThuoc_Thuoc" Member="LoaiThuoc" ThisKey="id_loai" OtherKey="id_loai" Type="LoaiThuoc" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Users" Member="Users">
+    <Type Name="User">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ma_loai" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ho_ten" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="email" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="mat_khau" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="so_dien_thoai" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="dia_chi" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ngay_sinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ngay_tao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="User_DonThuoc" Member="DonThuocs" ThisKey="id" OtherKey="id_nhan_vien" Type="DonThuoc" />
+      <Association Name="User_BaoCao" Member="BaoCaos" ThisKey="id" OtherKey="id_nhan_vien" Type="BaoCao" />
+      <Association Name="User_DanhGia" Member="DanhGias" ThisKey="id" OtherKey="id_nguoi_gui" Type="DanhGia" />
+      <Association Name="User_DanhGia1" Member="DanhGias1" ThisKey="id" OtherKey="id_nhan_vien" Type="DanhGia" />
+      <Association Name="LoaiUser_User" Member="LoaiUser" ThisKey="ma_loai" OtherKey="ma_loai" Type="LoaiUser" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BaoCao" Member="BaoCaos">
+    <Type Name="BaoCao">
+      <Column Name="id_bao_cao" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_nhan_vien" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="tinh_hinh_cua_hang" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="cac_benh_hay_gap" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="luong_khach" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="do_tuoi_benh_nhan" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="noi_dung" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ngay_bao_cao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="User_BaoCao" Member="User" ThisKey="id_nhan_vien" OtherKey="id" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DanhGia" Member="DanhGias">
+    <Type Name="DanhGia">
+      <Column Name="id_danh_gia" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_nhan_vien" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_nguoi_gui" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="muc_danh_gia" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="noi_dung" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ngay_danh_gia" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="User_DanhGia" Member="User" ThisKey="id_nguoi_gui" OtherKey="id" Type="User" IsForeignKey="true" />
+      <Association Name="User_DanhGia1" Member="User1" ThisKey="id_nhan_vien" OtherKey="id" Type="User" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DoanhThu" Member="DoanhThus">
+    <Type Name="DoanhThu">
+      <Column Name="id_doanh_thu" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ngay_bat_dau" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="ngay_ket_thuc" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="tong_so_luong_ban" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="tong_tien" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
