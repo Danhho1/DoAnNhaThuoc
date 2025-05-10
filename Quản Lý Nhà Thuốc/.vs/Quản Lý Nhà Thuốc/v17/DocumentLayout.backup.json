@@ -1,89 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\",
+  "WorkspaceRootPath": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|d:\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|d:\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng .net\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c git\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\loaithuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\loaithuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|d:\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng .net\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c git\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\dal_quanlynhanvien\\dal_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|solutionrelative:dal_quanlynhanvien\\dal_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\dal_quanlynhanvien\\dal_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|solutionrelative:dal_quanlynhanvien\\dal_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\bus_quanlynhathuoc\\bus_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|solutionrelative:bus_quanlynhathuoc\\bus_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\et_quanlynhathuoc\\et_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|solutionrelative:et_quanlynhathuoc\\et_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\chuongtrinhquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\chuongtrinhquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\bus_quanlynhathuoc\\bus_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|solutionrelative:bus_quanlynhathuoc\\bus_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\et_quanlynhathuoc\\et_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|solutionrelative:et_quanlynhathuoc\\et_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\dal_quanlynhanvien\\dal_danhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|solutionrelative:dal_quanlynhanvien\\dal_danhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\et_quanlynhathuoc\\et_lichsumuahangnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|solutionrelative:et_quanlynhathuoc\\et_lichsumuahangnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\bus_quanlynhathuoc\\bus_loaitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|solutionrelative:bus_quanlynhathuoc\\bus_loaitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\et_quanlynhathuoc\\et_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|solutionrelative:et_quanlynhathuoc\\et_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\dal_quanlynhanvien\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|solutionrelative:dal_quanlynhanvien\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\xemdanhgiatuquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\xemdanhgiatuquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\danhgianhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\danhgianhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\danhgianhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\danhgianhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|d:\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng .net\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c git\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\dal_quanlynhanvien\\dal_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|solutionrelative:dal_quanlynhanvien\\dal_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\dal_quanlynhanvien\\dal_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|solutionrelative:dal_quanlynhanvien\\dal_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\bus_quanlynhathuoc\\bus_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|solutionrelative:bus_quanlynhathuoc\\bus_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\et_quanlynhathuoc\\et_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|solutionrelative:et_quanlynhathuoc\\et_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\chuongtrinhquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\chuongtrinhquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\bus_quanlynhathuoc\\bus_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|solutionrelative:bus_quanlynhathuoc\\bus_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\et_quanlynhathuoc\\et_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|solutionrelative:et_quanlynhathuoc\\et_donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\dal_quanlynhanvien\\dal_danhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|solutionrelative:dal_quanlynhanvien\\dal_danhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\et_quanlynhathuoc\\et_lichsumuahangnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|solutionrelative:et_quanlynhathuoc\\et_lichsumuahangnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\bus_quanlynhathuoc\\bus_loaitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41223C60-BB2D-4C67-89A6-C019628AA64F}|BUS_QuanLyNhaThuoc\\BUS_QuanLyNhaThuoc.csproj|solutionrelative:bus_quanlynhathuoc\\bus_loaitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\et_quanlynhathuoc\\et_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79E91DA-A4C5-4B4A-8B53-2F659D483883}|ET_QuanLyNhaThuoc\\ET_QuanLyNhaThuoc.csproj|solutionrelative:et_quanlynhathuoc\\et_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\dal_quanlynhanvien\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E317C49B-B4CC-4475-8154-85269E1AF07F}|DAL_QuanLyNhanVien\\DAL_QuanLyNhaThuoc.csproj|solutionrelative:dal_quanlynhanvien\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\donthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\xemdanhgiatuquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\xemdanhgiatuquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\danhgianhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\danhgianhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\xemdanhgiatuquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\xemdanhgiatuquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A52E4CB3-623F-49C5-A25A-0AD413988540}|Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c.csproj|solutionrelative:qu\u1EA3n l\u00FD nh\u00E0 thu\u1ED1c\\xemdanhgiatuquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -94,15 +102,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Kho.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Kho.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Kho.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Kho.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Kho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:01:03.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoaiThuoc.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\LoaiThuoc.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\LoaiThuoc.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\LoaiThuoc.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\LoaiThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:00:34.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DonThuoc.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs",
               "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwOgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,11 +142,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "BUS_DoanhThu.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_DoanhThu.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_DoanhThu.cs",
               "RelativeDocumentMoniker": "BUS_QuanLyNhaThuoc\\BUS_DoanhThu.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_DoanhThu.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_DoanhThu.cs",
               "RelativeToolTip": "BUS_QuanLyNhaThuoc\\BUS_DoanhThu.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,11 +154,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "DAL_DoanhThu.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DoanhThu.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DoanhThu.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyNhanVien\\DAL_DoanhThu.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DoanhThu.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DoanhThu.cs",
               "RelativeToolTip": "DAL_QuanLyNhanVien\\DAL_DoanhThu.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAQwEkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,11 +166,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "DoanhThu.cs [Design]",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs [Design]",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs [Design]",
               "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T08:55:40.184Z",
@@ -146,11 +178,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "DoanhThu.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs",
               "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DoanhThu.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAQwC8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,23 +191,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Kho.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Kho.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Kho.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Kho.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Kho.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Kho.cs",
               "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Kho.cs",
               "ViewState": "AgIAAG4AAAAAAAAAAAAswJIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:35:49.798Z"
+              "WhenOpened": "2025-05-09T01:35:49.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DAL_DonThuoc.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DonThuoc.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DonThuoc.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyNhanVien\\DAL_DonThuoc.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DonThuoc.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DonThuoc.cs",
               "RelativeToolTip": "DAL_QuanLyNhanVien\\DAL_DonThuoc.cs",
               "ViewState": "AgIAALUAAAAAAAAAAADwv88AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,11 +216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ET_DoanhThu.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_DoanhThu.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_DoanhThu.cs",
               "RelativeDocumentMoniker": "ET_QuanLyNhaThuoc\\ET_DoanhThu.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_DoanhThu.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_DoanhThu.cs",
               "RelativeToolTip": "ET_QuanLyNhaThuoc\\ET_DoanhThu.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ChuongTrinhQuanLy.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ChuongTrinhQuanLy.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ChuongTrinhQuanLy.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ChuongTrinhQuanLy.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ChuongTrinhQuanLy.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ChuongTrinhQuanLy.cs",
               "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ChuongTrinhQuanLy.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAmwGEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "BUS_DonThuoc.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_DonThuoc.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_DonThuoc.cs",
               "RelativeDocumentMoniker": "BUS_QuanLyNhaThuoc\\BUS_DonThuoc.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_DonThuoc.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_DonThuoc.cs",
               "RelativeToolTip": "BUS_QuanLyNhaThuoc\\BUS_DonThuoc.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ET_DonThuoc.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_DonThuoc.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_DonThuoc.cs",
               "RelativeDocumentMoniker": "ET_QuanLyNhaThuoc\\ET_DonThuoc.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_DonThuoc.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_DonThuoc.cs",
               "RelativeToolTip": "ET_QuanLyNhaThuoc\\ET_DonThuoc.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,11 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "DAL_DanhGia.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DanhGia.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DanhGia.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyNhanVien\\DAL_DanhGia.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DanhGia.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_DanhGia.cs",
               "RelativeToolTip": "DAL_QuanLyNhanVien\\DAL_DanhGia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,11 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ET_LichSuMuaHangNguoiDung.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_LichSuMuaHangNguoiDung.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_LichSuMuaHangNguoiDung.cs",
               "RelativeDocumentMoniker": "ET_QuanLyNhaThuoc\\ET_LichSuMuaHangNguoiDung.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_LichSuMuaHangNguoiDung.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_LichSuMuaHangNguoiDung.cs",
               "RelativeToolTip": "ET_QuanLyNhaThuoc\\ET_LichSuMuaHangNguoiDung.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +288,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ET_KhachHang.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_KhachHang.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_KhachHang.cs",
               "RelativeDocumentMoniker": "ET_QuanLyNhaThuoc\\ET_KhachHang.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_KhachHang.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\ET_QuanLyNhaThuoc\\ET_KhachHang.cs",
               "RelativeToolTip": "ET_QuanLyNhaThuoc\\ET_KhachHang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +300,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "BUS_LoaiTaiKhoan.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_LoaiTaiKhoan.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_LoaiTaiKhoan.cs",
               "RelativeDocumentMoniker": "BUS_QuanLyNhaThuoc\\BUS_LoaiTaiKhoan.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_LoaiTaiKhoan.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\BUS_QuanLyNhaThuoc\\BUS_LoaiTaiKhoan.cs",
               "RelativeToolTip": "BUS_QuanLyNhaThuoc\\BUS_LoaiTaiKhoan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,11 +312,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "DAL_KhachHang.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_KhachHang.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_KhachHang.cs",
               "RelativeDocumentMoniker": "DAL_QuanLyNhanVien\\DAL_KhachHang.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_KhachHang.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DAL_QuanLyNhanVien\\DAL_KhachHang.cs",
               "RelativeToolTip": "DAL_QuanLyNhanVien\\DAL_KhachHang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,56 +324,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "DonThuoc.cs [Design]",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs",
               "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DonThuoc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T06:39:22.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "XemDanhGiaTuQuanLy.cs [Design]",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs",
               "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T01:08:49.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 3,
               "Title": "DanhGiaNhanVien.cs [Design]",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs [Design]",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs [Design]",
               "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T03:18:29.748Z"
+              "WhenOpened": "2025-05-08T03:18:29.748Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "DanhGiaNhanVien.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs",
               "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\DanhGiaNhanVien.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAqwGUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T01:54:27.794Z"
+              "WhenOpened": "2025-05-08T01:54:27.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "XemDanhGiaTuQuanLy.cs",
-              "DocumentMoniker": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs",
-              "ToolTip": "D:\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh \u1EE8ng D\u1EE5ng .NET\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c Git\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs",
               "RelativeToolTip": "Qu\u1EA3n L\u00FD Nh\u00E0 Thu\u1ED1c\\XemDanhGiaTuQuanLy.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAgwEUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
